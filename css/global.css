@@ -239,7 +239,7 @@ body {
 }
 [data-anime="accordion"] dt::after {
   content: "";
-  background: url("/img/arrow-red.svg") no-repeat center center;
+  background: url("./img/arrow-red.svg") no-repeat center center;
   display: inline-block;
   width: 10px;
   height: 10px;
@@ -298,7 +298,7 @@ body {
 }
 
 .arrow-black {
-  background: url("/img/arrow-black.svg") no-repeat center center;
+  background: url("./img/arrow-black.svg") no-repeat center center;
   display: inline-block;
   width: 8px;
   height: 10px;
